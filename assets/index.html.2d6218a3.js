@@ -1,0 +1,1 @@
+const e={key:"v-ba0625c8",path:"/reading/",title:"Reading",lang:"zh-CN",frontmatter:{title:"Reading"},excerpt:"",headers:[],git:{createdTime:1658753848e3,updatedTime:1658753848e3,contributors:[{name:"lizhuliang",email:"lizhuliang@quancheng-ec.com",commits:1}]},readingTime:{minutes:.06,words:18},filePathRelative:"reading/README.md"};export{e as data};

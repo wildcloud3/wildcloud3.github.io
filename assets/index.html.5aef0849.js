@@ -1,0 +1,1 @@
+const e={key:"v-74bc627b",path:"/about/",title:"\u5173\u4E8E\u81EA\u5DF1",lang:"zh-CN",frontmatter:{title:"\u5173\u4E8E\u81EA\u5DF1"},excerpt:"",headers:[],git:{createdTime:1658753848e3,updatedTime:1658753848e3,contributors:[{name:"lizhuliang",email:"lizhuliang@quancheng-ec.com",commits:1}]},readingTime:{minutes:.04,words:11},filePathRelative:"about/README.md"};export{e as data};
